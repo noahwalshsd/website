@@ -1,0 +1,15 @@
+img {
+    width: 220px;
+}
+body1 {
+    text-align: center;
+    font-family: 'Times New Roman';
+    background: rgb(7, 54, 194);
+    color: crimson;
+}
+body2 {
+    text-align: left;
+    font-family: 'Arial';
+    background: purple;
+    color: green;
+}
