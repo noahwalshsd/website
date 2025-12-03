@@ -1,12 +1,11 @@
 img{
     width: 300px;
 }
-body1 {
+body {
     text-align:center;
     font-family: "Sansita", sans-serif;
     font-weight: 400;
     font-style: normal;
     Background: rgb(35, 35, 35);
     Color: rgb(255, 255, 181);
-}
 }
