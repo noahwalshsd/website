@@ -5,10 +5,11 @@ body1 {
     text-align: center;
     font-family: 'Times New Roman';
     color: rgb(37, 3, 10);
+    background: rgb(7, 54, 194);
 }
 body2 {
     text-align: left;
     font-family: 'Arial';
     color: white;
+    background: rgb(7, 54, 194);
 }
-background: rgb(7, 54, 194);
