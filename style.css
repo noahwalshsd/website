@@ -4,7 +4,6 @@ img {
 body1 {
     text-align: center;
     font-family: 'Times New Roman';
-    background: rgb(7, 54, 194);
     color: rgb(37, 3, 10);
 }
 body2 {
@@ -12,3 +11,4 @@ body2 {
     font-family: 'Arial';
     color: white;
 }
+background: rgb(7, 54, 194);
